@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "movie",
+    "slug": "movie",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconOne.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.subham12345.movie"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2a11a43a-7712-430e-86ed-9970efddec9d"
+      }
+    }
+  }
+}
