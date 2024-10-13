@@ -1,1 +1,1 @@
-# Movie-app
+This is movie application based on React Native, Tailwind CSS, Nativewind, JavaScript, Navigator, Redux. In this application we are able to search movies, and details of movie also with all character who worked, we are also able to see that character related movie. In this application i used two navigator(Stack and Drawer) for redirect one page to another and for side nav.
